@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    height: 80vh;
+    overflow: hidden;
+    align-content: center;
+    justify-content: center;
+    background-color: pink; 
+}
+
+
+img {
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+}
